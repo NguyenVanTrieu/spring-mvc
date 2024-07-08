@@ -4,6 +4,7 @@
 
 # Getting started
 Init spring boot project
+![Screen Shot 2024-07-08 at 05.43.25.png](image%2FScreen%20Shot%202024-07-08%20at%2005.43.25.png)
 # Add maven dependencies
 See [pom.xml](pom.xml) in project
 # Init database
@@ -43,7 +44,7 @@ spring.datasource.password=<your_password>
 # Create jpa repository
 # Create service
 # Create controller
-
+# Implement html
 # Run app
 Open in browser:
 localhost:8080
